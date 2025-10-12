@@ -208,7 +208,6 @@ npm run preview
 ```
 website/
 ├── 📁 .github/                    # GitHub configuration
-│   ├── 📁 workflows/              # GitHub Actions workflows
 │   └── 📄 PULL_REQUEST_TEMPLATE.md # PR template
 ├── 📁 public/                     # Public assets served as-is
 │   ├── 📁 assets/                 # Static assets
